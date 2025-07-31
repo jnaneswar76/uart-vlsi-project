@@ -62,21 +62,3 @@ Make sure to install:
 * [ ] Add parity bit support
 * [ ] FPGA synthesis constraints
 
----
-
-## 🧑‍💻 Author
-
-* [Your Name](https://github.com/yourusername)
-
----
-
-## 📄 License
-
-This project is open-source under the MIT License – see the [LICENSE](LICENSE) file for details.
-
-```
-
----
-
-Let me know if you want a version tailored for a **university submission**, **GitHub Pages**, or **professional resume use**.
-```
